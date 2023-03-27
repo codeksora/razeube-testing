@@ -1,6 +1,6 @@
 describe('home', () => {
 
-  const baseUrl = 'http://127.0.0.1:8000'
+  const baseUrl = 'http://admin.drfrankahernandez.com'
 
   beforeEach(() => {
     cy.visit(baseUrl)

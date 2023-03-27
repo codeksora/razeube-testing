@@ -1,6 +1,6 @@
 describe('home', () => {
 
-  const baseUrl = 'http://admin.cotmoscar.com'
+  const baseUrl = 'http://127.0.0.1:8000'
 
   beforeEach(() => {
     cy.visit(baseUrl)
